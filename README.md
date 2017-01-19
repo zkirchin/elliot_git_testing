@@ -1,4 +1,4 @@
-# elliot_git_testing
+# A testing application for Elliot and Git
 
-- this is markdown
-- for a readme
+We are learning about git and Github
+- this is our readme file, it says stuff
